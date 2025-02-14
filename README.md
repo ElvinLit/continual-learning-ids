@@ -1,2 +1,2 @@
-# SSL-IDS
-Self Supervised Learning for Intrusion Detection Systems
+# Continual-Learning-IDS
+Continual Learning for Intrusion Detection Systems
